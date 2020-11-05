@@ -1,3 +1,3 @@
-# JS Web
+# JS Apps
 
-GitHub repo for the JS Web trainings @ SoftUni
+GitHub repo for the JS Apps trainings @ SoftUni
